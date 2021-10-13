@@ -51,3 +51,10 @@ body
     background: wheat;
     padding: 1em;
 }
+
+#footer
+{
+    background: rgb(107, 101, 112);
+    color: cornsilk;
+    text-align: center;
+}
